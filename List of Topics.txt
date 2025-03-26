@@ -3,5 +3,7 @@ Session List
 Git hub -Bhavana
 Pull request - Bhavana
 API - Manju 
+RSAT - Seema 
+RSAT - Anbu
 Power BI - Santosh
 
